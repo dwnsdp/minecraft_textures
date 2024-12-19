@@ -1,5 +1,7 @@
 # minecraft_textures
+
 Creative commons MC textures from across the web
+
 Can be viewed with [oparisblue's texture viewer](https://oparisblue.github.io/minecraft-textures-viewer/#github/dwnsdp/minecraft_textures/main)
 
 # credits
